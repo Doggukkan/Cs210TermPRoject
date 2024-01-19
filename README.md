@@ -1,3 +1,5 @@
+#Presentation Video (Must have sabanciuniv mail to access it)
+https://drive.google.com/file/d/1S4so9snkDbH1LqHDtdeuaNuAKlOQnJF8/view?usp=sharing
 # Cs210TermPRoject
 The aim of this project is to analyze my studying patterns such as my class attandences, time I spend on IC, and my break patterns when studying.
 # Code
@@ -23,5 +25,6 @@ I used exploratory data analysis techniques to visualize my various studying pat
 The biggest limitation was not knowing whether I was actually attending a class or just inside a building during class times. Consequently, I had to assume that I was attending the classes when I was inside the building at the scheduled class times. I do not plan on to work with this project any further I believe the daa I have has very great Limitations and the future potential is very low.
 # Problems
 There is a problem on the feature extraction of the classes that I have attended to the algoithm checks the overlap beween the imes of the classes and my location at those times and if I am inside the building in the building of the class for more than 30 minutes and I did not attend to the class It still sees as I have attended the class this happens very rarely but I have observerd in the data (I believe they are ignorably small).
-#Video
-I have the presantation video's google drive link in the txt file, you must have sabanciuniv mail to access it.
+
+
+
