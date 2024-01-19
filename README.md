@@ -1,11 +1,10 @@
-#Presentation Video (Must have sabanciuniv mail to access it)
+# Presentation Video (Must have sabanciuniv mail to access it)
 https://drive.google.com/file/d/1S4so9snkDbH1LqHDtdeuaNuAKlOQnJF8/view?usp=sharing
 # Cs210TermPRoject
 The aim of this project is to analyze my studying patterns such as my class attandences, time I spend on IC, and my break patterns when studying.
 # Code
 All of my code is in GPXData_Project.ipnyb in this repo.
-# Presentation Method
-My presentation is in the .mp4 file in this repo
+
 # Summary
 
 ## Motivation
